@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: crimson;
+    background-color: rgb(255, 255, 255);
 }
 
 .start, .play, .result {
